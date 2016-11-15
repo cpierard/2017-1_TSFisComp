@@ -16,4 +16,4 @@
 ### Referencias
 - En el libro, la parte donde mencionan el mapeo de Hénon conservativo, está en la página 82 (96 DJVU).
 
-Hola crayola
+Practicando el trabajo colaborativo.
